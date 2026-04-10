@@ -1,3 +1,5 @@
+Hi i forket the projet.
+Now it's here git@github.com:zoulou00/clicky.git
 # Hi, this is Clicky.
 It's an AI teacher that lives as a buddy next to your cursor. It can see your screen, talk to you, and even point at stuff. Kinda like having a real teacher next to you.
 
@@ -18,9 +20,7 @@ Once you get Claude running, paste this:
 ```
 Hi Claude.
 
-Clone https://github.com/farzaa/clicky.git into my current directory.
-
-Then read the CLAUDE.md. I want to get Clicky running locally on my Mac.
+ Read the CLAUDE.md. I want to get Clicky running locally on my Mac.
 
 Help me set up everything — the Cloudflare Worker with my own API keys, the proxy URLs, and getting it building in Xcode. Walk me through it.
 ```
